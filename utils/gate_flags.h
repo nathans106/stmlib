@@ -44,7 +44,7 @@
 #ifndef STMLIB_UTILS_GATE_FLAGS_H_
 #define STMLIB_UTILS_GATE_FLAGS_H_
 
-#include "stmlib/stmlib.h"
+#include "stmlib.h"
 
 namespace stmlib {
 
