@@ -35,7 +35,7 @@
   #ifdef STM32F4XX
     #include "stmlib/system/sector_storage_f4xx.h"
   #else
-    #include "stmlib/system/page_storage.h"
+    #include "system/page_storage.h"
   #endif
 #endif
 
